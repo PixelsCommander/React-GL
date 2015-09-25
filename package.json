@@ -1,0 +1,19 @@
+{
+  "name": "react-gl",
+  "version": "0.0.1",
+  "description": "Render React components in WebGL for 60 FPS animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelsCommander/React-GL.git"
+  },
+  "author": "PixelsCommander <denis.radin@gmail.com> (http://pixelscommander.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixelsCommander/React-GL/issues"
+  },
+  "homepage": "https://github.com/PixelsCommander/React-GL#readme"
+}
